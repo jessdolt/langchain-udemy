@@ -9,7 +9,7 @@ parser.add_argument('--language', default="python")
 args = parser.parse_args()
 
 
-api_key = "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"
+api_key = ""
 
 
 llm = OpenAI(
